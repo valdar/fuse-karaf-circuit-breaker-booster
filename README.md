@@ -1,0 +1,1 @@
+# fuse-karaf-circuit-breaker-booster
