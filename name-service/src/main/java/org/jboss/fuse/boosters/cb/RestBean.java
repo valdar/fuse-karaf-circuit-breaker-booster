@@ -1,5 +1,5 @@
 package org.jboss.fuse.boosters.cb;
 
-public class Test {
+public class RestBean {
 
 }
